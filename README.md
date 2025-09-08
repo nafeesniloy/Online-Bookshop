@@ -1,4 +1,4 @@
-# 📚 Project Title – Online Bookshop Management System
+# 📚 Project Title – Online Bookshop(WEB)
 
 ## 📄 Description
 A simple and functional web-based application built with PHP and MySQL that allows users to register, log in, and manage book purchases. This project was developed to practice core web development skills and simulate a real-world database-driven system.
